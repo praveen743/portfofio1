@@ -1,0 +1,101 @@
+*{
+    background-color: black;
+    
+}
+
+#homecontainer{
+    color: white;
+    font-weight: bold;
+    padding-left:150px;
+}
+
+#btns{
+text-align: center;
+padding-right: 500px;
+margin-top: 20px;
+}
+ 
+.topbar{
+    background-color: black;
+    height: 80px;
+    border-bottom: 1px solid rgb(20, 20, 20);
+}
+
+.btn{
+    margin-top: 25px;
+    float: right;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+/* home */
+#hello{
+    font-size: 40px;
+    margin-right: 500px;
+}
+
+#name{
+    font-size: 60px;
+    margin-right: 250px;
+}
+
+#para{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 150px;
+    text-align: justify;
+}
+
+#spid{
+    color: gray;
+    font-size: 25px;
+}
+
+/* about */
+.hmcontnr{
+    color: white;
+    font-weight: bold;
+    padding-top: 80px;
+    font-size: large;
+}
+
+#aboutpara{
+    text-align: justify;
+    padding-right: 150px;
+    padding-left: 100px;
+    font-weight: lighter;
+}
+
+#abtprspn{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.skilllogo,#imglogo{
+    height: 100px;
+    width: 100px;
+}
+
+
+#skilcrd{
+    height: 100px;
+    width: 300px;
+    color: white;
+    font-weight: bold;
+    padding-top: 25px;
+    border-radius: 5px;
+    background-color: #581845;
+    margin-right: 50px;
+    margin-bottom: 25px;
+    font-size: xx-large;
+}
+
+.skcontainer{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 175px;
+    padding-top: 60px;
+}
